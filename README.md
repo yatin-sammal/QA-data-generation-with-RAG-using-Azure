@@ -30,9 +30,9 @@ This project demonstrates how to generate a QA dataset with Retrieval-Augmented 
 2. Provide the following information to configure your new workspace:
    1. Subscription: Select your assigned Azure subscription
    2. Resource group: Select Click New and give the name for eg: RGForMLOps
-   3. Workspace name: enter alphanumeric characters for eg: Azuremlws2025
+   3. Workspace name: enter alphanumeric characters for eg: Azuremlws98
    4. Region: Select your nearest region (North Central US is selected here)
-   5. Container registry: Select Create new. Enter alphanumeric characters for eg: azuremlcr2025
+   5. Container registry: Select Create new. Enter alphanumeric characters for eg: azuremlcr97
    ![image](https://github.com/user-attachments/assets/43444a94-0fa2-46cb-9824-1c0e1a5f78a8)
 
 3. Once you are done configuring the workspace, select Review + Create.
@@ -54,7 +54,7 @@ This project demonstrates how to generate a QA dataset with Retrieval-Augmented 
 2. Fill in the below details and click on Next:
    1. Resource group - Select the resourse group created in Step 1 for eg: RGForMLOps
    2. Region – Select any nearest region (East US2 is being used here)
-   3. Name - Enter alphanumeric characters for eg: AOAI-PF2025
+   3. Name - Enter alphanumeric characters for eg: AOAI-PF9898
    4. Pricing tier - Standard
       ![image](https://github.com/user-attachments/assets/fc3ecfad-d6db-465b-b720-8818e438f55c)
 
